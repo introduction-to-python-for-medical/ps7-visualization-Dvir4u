@@ -1,1 +1,6 @@
+The scatter plot shows the relationship between Alcohol (x-axis) and Color Intensity (y-axis):
+There appears to be a positive correlation between Alcohol and Color Intensity. As the alcohol content increases, the color intensity of the wine also tends to increase.
+The range of Alcohol 11.0 to 14.5.
+The range of Color Intensity is 2.0 to 13.0.
 
+There are a few outliers but we can see the general trend that wines with higher alcohol have higher color intensity, this shows that there is probably correlation between color intensity and alcohol.
